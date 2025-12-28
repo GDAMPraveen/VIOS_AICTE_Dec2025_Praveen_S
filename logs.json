@@ -1,0 +1,77 @@
+[
+    {
+        "Pressed": "i",
+        "Held": "i",
+        "Released": "i"
+    },
+    {
+        "Pressed": "n",
+        "Held": "n",
+        "Released": "n"
+    },
+    {
+        "Pressed": "f",
+        "Held": "f",
+        "Released": "f"
+    },
+    {
+        "Pressed": "o",
+        "Held": "o",
+        "Released": "o"
+    },
+    {
+        "Pressed": "s",
+        "Held": "s",
+        "Released": "s"
+    },
+    {
+        "Pressed": "y",
+        "Held": "y",
+        "Released": "y"
+    },
+    {
+        "Pressed": "Key.space",
+        "Held": "Key.space",
+        "Released": "Key.space"
+    },
+    {
+        "Pressed": "i",
+        "Held": "i",
+        "Released": "i"
+    },
+    {
+        "Pressed": "s",
+        "Held": "s",
+        "Released": "s"
+    },
+    {
+        "Pressed": "Key.space",
+        "Held": "Key.space",
+        "Released": "Key.space"
+    },
+    {
+        "Pressed": "g",
+        "Held": "g",
+        "Released": "g"
+    },
+    {
+        "Pressed": "o",
+        "Held": "o",
+        "Released": "o"
+    },
+    {
+        "Pressed": "o",
+        "Held": "o",
+        "Released": "o"
+    },
+    {
+        "Pressed": "d",
+        "Held": "d",
+        "Released": "d"
+    },
+    {
+        "Pressed": "Key.enter",
+        "Held": "Key.enter",
+        "Released": "Key.enter"
+    }
+]
